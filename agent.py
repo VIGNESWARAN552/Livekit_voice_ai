@@ -1,6 +1,6 @@
 # --- Load environment variables (API keys and secrets) ---
 from dotenv import load_dotenv        
-import os
+
 
 # --- Import all core LiveKit Agent framework and plugin modules needed for AI, speech, and audio ---
 from livekit import agents             
